@@ -6316,7 +6316,7 @@ button.usa-combo-box__clear-input:focus{
 }
 @media all and (min-width: 64em){
   .usa-nav__primary{
-    display:flex;
+    display:none;
   }
 }
 .usa-nav__primary .usa-nav__primary-item a{
@@ -6448,6 +6448,22 @@ button.usa-combo-box__clear-input:focus{
   .usa-nav__primary .usa-accordion__button span{
     margin-right:0;
     padding-right:1rem;
+  }
+}
+
+@media all and (min-width: 64em){
+  .usa-nav__primary-item span{
+    margin-right:0;
+    padding-right:1rem;
+    display: none;
+  }
+}
+
+@media all and (min-width: 64em){
+  .usa-nav__primary span{
+    margin-right:0;
+    padding-right:1rem;
+    display: none !important;
   }
 }
 

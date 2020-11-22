@@ -7130,6 +7130,14 @@ input[type=search]{
   }
 }
 
+@media all and (max-width: 63em){
+  .grid-container .usa-sidenav{
+    margin-left:0;
+    margin-right:0;
+    visibility: hidden;
+  }
+}
+
 .usa-sidenav__sublist{
   margin-bottom:0;
   margin-top:0;

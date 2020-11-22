@@ -7134,7 +7134,7 @@ input[type=search]{
   .grid-container .usa-sidenav{
     margin-left:0;
     margin-right:0;
-    visibility: hidden;
+    display: none;
   }
 }
 

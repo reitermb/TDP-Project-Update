@@ -4861,6 +4861,7 @@ button.usa-combo-box__clear-input:focus{
 
 .usa-card .usa-card__img{
   display:block;
+  max-height: 171px;
 }
 
 .usa-card__header{
@@ -6026,7 +6027,7 @@ button.usa-combo-box__clear-input:focus{
   line-height:1.5;
   padding-bottom:2rem;
   padding-top:2rem;
-  background-image:url("../img/hero.png");
+  background-image:url("../img/unemployment_banner.jpg");
   background-position:center;
   background-size:cover;
   color:white;

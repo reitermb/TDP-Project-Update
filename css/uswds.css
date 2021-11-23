@@ -6036,6 +6036,8 @@ button.usa-combo-box__clear-input:focus{
 .usa-hero__callout{
   background-color:#162e51;
   padding:2rem;
+  border-radius: .25rem;
+  box-shadow: 0 0 29px 0 #000001;
 }
 @media all and (min-width: 40em){
   .usa-hero__callout{

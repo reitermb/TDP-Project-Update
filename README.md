@@ -1,1 +1,1 @@
-# Indiana Department of Workforce Development Proof of Concept
+# Design Environment for testing hero image modifications
